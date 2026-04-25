@@ -3,9 +3,9 @@
   <a href="https://rakesh-pp.vercel.app/" target="_blank">My Portfolio</a>
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+</div> -->
 
 <br/>
 
